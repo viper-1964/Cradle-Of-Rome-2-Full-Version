@@ -236,4 +236,4 @@ This repository serves as the official landing page for Cradle of Rome 2. The so
 **Get the most recent version of Cradle of Rome 2 today!**
 
 ---
-**Last updated:** 2026-10-16 17:15:10 UTC
+**Last updated:** 2026-10-16 20:46:39 UTC
